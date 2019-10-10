@@ -151,3 +151,96 @@ systemctl start jenkins
 systemctl enable jenkins
 /lib/systemd/systemd-sysv-install enable jenkins
 cat /var/lib/jenkins/secrets/initialAdminPassword
+git status
+git commit -ma "dev file"
+git init
+git commit -ma "dev file"
+git add .
+git status
+cd myapplication
+ls
+git add .
+git commit -m "dev file"
+ls
+git remote -v
+cd..
+cd
+cd codebase
+root@thirty-sept:~# cd codebase
+git remote add origin https://github.com/saritha26/codebase.git
+git remote -v
+git push origin master
+cd codebase
+service jenkins status
+ls
+git status
+git clone https://github.com/edureka-git/DevOpsClassCodes
+apt-get install -y maven
+cd DevOpsClassCodes
+ls
+mvn compile
+apt-get install -y tree
+tree .
+cd target
+mvn text
+mvn test
+cd
+cd DevOpsClassCodes
+mvn test
+mvn pwd:pwd
+cd /var/lib/jenkins/workspace
+ls
+cd JavaCodeReview
+cd DevOpsClassCodes/
+ls
+mvn compile
+ls
+cd /var/lib/jenkins/workspace
+ls
+cd JavaCodeReview
+cd target
+ls
+cat /etc/os-release
+cd /var/lib/Jenkins/Workspace
+cd /var/lib/jenkins/workspace
+ls
+cd javaTest
+ls
+cd target
+ls
+cd sure-fire reports
+cd surefire -reports
+cd surefire-reports
+ls
+cd /var/lib/jenkins/workspace
+ls
+cd javaCoverageCheck
+ls
+/var/lib/Jenkins/workspace
+/var/lib/Jenkins
+cd /var/lib/jenkins/workspace
+ls
+cd javaCoverageCheck
+ls
+cd target
+ls
+cd cobertura
+ls
+find . -name *.xml -type f
+ls
+cd coverage.xml
+cd /var/lib/jenkins/workspace
+ls
+cd javaCoverageCheck
+ls
+cd target
+ls
+cd site/cobertura
+ls
+nano coverage.xml
+cd /var/lib/jenkins/workspace
+ls
+cd javaPackage
+ls
+cd target
+ls
